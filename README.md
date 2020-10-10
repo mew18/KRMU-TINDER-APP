@@ -4,7 +4,7 @@
 
 ![male](male_sample.jpg)
 ![female](female_sample.jpg)
-![Website](landing page.png)
+![Website](landing_page.png)
 ## The user opts for their gender of choice: 
-![Gender](ouput.png)
+![Gender](output.png)
 ### For the sake of privacy i cant host all the images, but if you need those images . Contact me
