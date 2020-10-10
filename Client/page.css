@@ -7,6 +7,11 @@ body
   /* margin: auto; */
 }
 
+.bg-img
+{
+  filter: blur(3px);
+}
+
 img
 {
     height: 200px;
